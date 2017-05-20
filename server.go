@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 	"github.com/julienschmidt/httprouter"
-	"github.com/swhite24/vianca_api/controllers"
+	"github.com/pipelopez/vianca_api/controllers"
 	"gopkg.in/mgo.v2"
 )
 
